@@ -27,7 +27,7 @@ void concat(FUNC_PARAMS)
     returns(s, PARAMTYPE_STRING);
 }
 
-map<string, void*(FUNC_HEADER)> func_dict() 
-{
-    auto x = map<string, void*(FUNC_HEADER)>();
-}
+// map<string, void*(FUNC_HEADER)> func_dict() 
+// {
+//     auto x = map<string, void*(FUNC_HEADER)>();
+// }
